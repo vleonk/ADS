@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+numpy
+matplotlib
+scipy
+statsmodels
+openpyxl
+seaborn
+spacy
+nltk
+transformers
